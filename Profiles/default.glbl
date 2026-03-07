@@ -7,7 +7,7 @@
    <GlobalVariableEntity>
       <description></description>
       <initValue>'https://sample-web-service-aut.herokuapp.com'</initValue>
-      <name>Name</name>
+      <name>baseURL</name>
       <protected>false</protected>
       <valueType>STRING</valueType>
    </GlobalVariableEntity>
