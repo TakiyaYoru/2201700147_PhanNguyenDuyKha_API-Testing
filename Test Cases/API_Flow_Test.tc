@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>API_Flow_Test</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>63a6a8ac-7d72-492f-ae55-9a97473e4138</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>3b9ebfa0-fa21-4593-99f3-5d0985b79d5e</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'1'</defaultValue>
+      <description></description>
+      <id>3b9ebfa0-fa21-4593-99f3-5d0985b79d5e</id>
+      <masked>false</masked>
+      <name>id</name>
+   </variable>
+</TestCaseEntity>
